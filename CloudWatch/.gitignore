@@ -1,0 +1,13 @@
+# Ignore sensitive files
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore other unnecessary files
+*.log
